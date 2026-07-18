@@ -59,7 +59,7 @@ div4.addEventListener('mouseout', function() {
 
 // form completion
 
-const scriptURL = 'https://script.google.com/macros/s/AKfycbwaMaqdO7221_mSFxnpzCR5cyv91FzTMtEkORbMTRZVS4XETVC9BuLECzW1EgRncpsO/exec'
+const scriptURL = 'https://script.google.com/macros/s/AKfycbzilViKTLwURRBMPThBpRC4lpvy0ZEOJeQDUqrtse8G-OJS8iRUAmo6OcjT8ddtCJ92/exec'
 
 const form = document.forms['enrollment-form']
 
